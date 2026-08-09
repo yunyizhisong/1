@@ -1,5 +1,6 @@
 name: Fetch A-share market data
 
+# Re-triggered after workflow creation.
 on:
   push:
     branches: [master]
