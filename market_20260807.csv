@@ -1,0 +1,105 @@
+﻿date,code,name,board,category,exposure,close,pct_chg,amount_yuan,turnover_pct,main_net_yuan,main_net_ratio_pct,super_net_yuan,big_net_yuan,status,error
+2026-08-07,300054,鼎龙股份,创业板,半导体材料,CMP抛光垫/抛光液及先进封装材料,77.74,1.22,3342084388.84,5.77,-50736800.0,-1.52,-72246064.0,21509264.0,ok,
+2026-08-07,300236,上海新阳,创业板,半导体材料,晶圆制造/封装湿电子化学品与光刻胶,92.91,1.11,1232450291.03,4.79,-102592729.0,-8.32,-112633449.0,10040720.0,ok,
+2026-08-07,300260,新莱应材,创业板,半导体设备零部件,高纯工艺系统与真空零部件,59.28,7.98,1707890564.25,10.49,83059993.0,4.86,-2473495.0,85533488.0,ok,
+2026-08-07,300285,国瓷材料,创业板,半导体材料,电子陶瓷与先进陶瓷材料,70.88,1.94,12396849874.74,20.74,-243321936.0,-1.96,-397071872.0,153749936.0,ok,
+2026-08-07,300346,南大光电,创业板,半导体材料,前驱体、电子特气与光刻胶,58.32,4.33,4376450772.69,11.64,229054880.0,5.23,129059184.0,99995696.0,ok,
+2026-08-07,300395,菲利华,创业板,半导体材料,半导体用石英材料,89.6,9.5,4112513811.99,9.2,456057872.0,11.09,291855104.0,164202768.0,ok,
+2026-08-07,300398,飞凯材料,创业板,电子材料,光刻胶/湿电子化学品/封装材料,36.81,3.43,1766287580.13,8.58,112320685.0,6.36,66044333.0,46276352.0,ok,
+2026-08-07,300400,劲拓股份,创业板,半导体设备,封装及电子制造热工/检测设备,30.7,17.76,1034721219.29,14.44,117875355.0,11.39,114303612.0,3571743.0,ok,
+2026-08-07,300429,强力新材,创业板,光刻胶材料,光刻胶专用化学品,10.7,1.23,289747007.72,6.58,-9027117.0,-3.12,-20352.0,-9006765.0,ok,
+2026-08-07,300480,光力科技,创业板,半导体设备,划片/切割及封装设备,35.05,8.18,1201947972.05,12.91,15380585.0,1.28,21882281.0,-6501696.0,ok,
+2026-08-07,300489,光智科技,创业板,先进封装/材料,晶圆级封装与化合物半导体材料,240.0,18.81,4337904698.67,13.91,313263120.0,7.22,325974272.0,-12711152.0,ok,
+2026-08-07,300537,广信材料,创业板,电子材料,PCB光刻胶与专用油墨,20.23,3.58,315491186.7,10.48,1916272.0,0.61,-2275983.0,4192255.0,ok,
+2026-08-07,300567,精测电子,创业板,半导体设备,半导体检测与量测设备,223.91,7.65,2400974471.33,4.86,207736480.0,8.65,18419440.0,189317040.0,ok,
+2026-08-07,300576,容大感光,创业板,PCB/半导体材料,PCB光刻胶及半导体光刻胶,31.99,7.67,1680849687.65,21.36,202005608.0,12.02,88224648.0,113780960.0,ok,
+2026-08-07,300604,长川科技,创业板,半导体设备,集成电路测试机/分选机,283.21,1.68,6192469921.46,4.51,-137595008.0,-2.22,-64752688.0,-72842320.0,ok,
+2026-08-07,300655,晶瑞电材,创业板,半导体材料,光刻胶与湿电子化学品,13.48,1.51,1141161191.82,7.63,25956246.0,2.27,-7234238.0,33190484.0,ok,
+2026-08-07,300666,江丰电子,创业板,半导体材料,高纯溅射靶材与设备零部件,252.54,5.83,5544704532.02,10.08,496585984.0,8.96,362880464.0,133705520.0,ok,
+2026-08-07,300706,阿石创,创业板,半导体材料,PVD镀膜靶材,53.6,4.91,874355193.82,14.66,53247971.0,6.09,25942581.0,27305390.0,ok,
+2026-08-07,301095,广立微,创业板,半导体工具/测试,晶圆级电性测试与EDA,73.76,2.92,560230500.56,4.44,-2808429.0,-0.5,-10697387.0,7888958.0,ok,
+2026-08-07,301297,富乐德,创业板,半导体服务/零部件,设备精密洗净与部件再生,34.85,3.2,709311964.17,3.89,21364519.0,3.01,-9412127.0,30776646.0,ok,
+2026-08-07,301338,凯格精机,创业板,半导体/电子设备,点胶、封装与SMT设备,102.3,7.53,732765957.53,6.79,52788577.0,7.2,42414926.0,10373651.0,ok,
+2026-08-07,301369,联动科技,创业板,半导体设备,功率半导体测试设备,137.86,1.94,352152292.21,4.67,-36248071.0,-10.29,1314865.0,-37562936.0,ok,
+2026-08-07,301392,汇成真空,创业板,半导体设备,真空镀膜设备,175.68,11.64,1118135366.73,16.37,118194131.0,10.57,59148474.0,59045657.0,ok,
+2026-08-07,301611,珂玛科技,创业板,半导体材料/零部件,先进陶瓷材料及设备零部件,100.94,5.62,1238880214.56,8.56,74957349.0,6.05,62667233.0,12290116.0,ok,
+2026-08-07,301629,矽电股份,创业板,半导体设备,晶圆探针台及测试设备,255.41,3.4,339579982.92,7.06,-1782651.0,-0.52,1682652.0,-3465303.0,ok,
+2026-08-07,300476,胜宏科技,创业板,PCB,AI服务器与高多层PCB,280.2,12.01,19750660787.3,8.39,1591393024.0,8.06,1600384000.0,-8990976.0,ok,
+2026-08-07,300602,飞荣达,创业板,PCB/电子材料,电磁屏蔽与导热材料,37.3,2.0,652310323.25,4.38,-18001941.0,-2.76,-30205000.0,12203059.0,ok,
+2026-08-07,300657,弘信电子,创业板,PCB,FPC与AI算力硬件,36.5,3.49,1144899065.22,6.76,56996367.0,4.98,12527290.0,44469077.0,ok,
+2026-08-07,300739,明阳电路,创业板,PCB,多层PCB与海外产能,23.46,4.87,386220292.76,5.52,3739484.0,0.97,-1394693.0,5134177.0,ok,
+2026-08-07,300814,中富电路,创业板,PCB,高多层PCB,141.99,13.34,1753662391.78,6.67,71490838.0,4.08,34963238.0,36527600.0,ok,
+2026-08-07,300903,科翔股份,创业板,PCB,高多层/陶瓷PCB,72.33,12.45,4244926169.03,17.41,397917456.0,9.37,137385520.0,260531936.0,ok,
+2026-08-07,300936,中英科技,创业板,PCB上游材料,高频高速覆铜板,70.73,4.35,270098158.56,8.15,10790242.0,3.99,2943157.0,7847085.0,ok,
+2026-08-07,300964,本川智能,创业板,PCB,高频高速与小批量PCB,59.18,8.63,625444725.14,13.76,33419805.0,5.34,4415489.0,29004316.0,ok,
+2026-08-07,301132,满坤科技,创业板,PCB,多层PCB,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301150,中一科技,创业板,PCB上游材料,电子铜箔,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301176,逸豪新材,创业板,PCB上游材料,电子铜箔及PCB,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301200,大族数控,创业板,PCB设备,钻孔/曝光等PCB设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301217,铜冠铜箔,创业板,PCB上游材料,电子铜箔,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301251,威尔高,创业板,PCB,AI服务器电源PCB,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301319,唯特偶,创业板,PCB/封装材料,电子焊接材料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301366,一博科技,创业板,PCB,PCB研发设计与中小批量制造,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301377,鼎泰高科,创业板,PCB设备耗材,PCB钻针/铣刀及精密工具,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301389,隆扬电子,创业板,PCB/电子材料,电磁屏蔽材料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301511,德福科技,创业板,PCB上游材料,电子铜箔,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301626,苏州天脉,创业板,PCB/电子材料,导热散热材料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,301628,强达电路,创业板,PCB,样板及小批量PCB,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688012,中微公司,科创板,半导体设备,刻蚀与薄膜沉积设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688019,安集科技,科创板,半导体材料,CMP抛光液与功能湿电子化学品,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688025,杰普特,科创板,半导体/激光设备,激光及精密加工设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688035,德邦科技,科创板,先进封装材料,芯片级封装材料与导热材料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688037,芯源微,科创板,半导体设备,涂胶显影与清洗设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688072,拓荆科技,科创板,半导体设备,薄膜沉积设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688082,盛美上海,科创板,半导体设备,清洗、电镀与先进封装设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688106,金宏气体,科创板,半导体材料,电子特气,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688120,华海清科,科创板,半导体设备,CMP与晶圆再生设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688126,沪硅产业,科创板,半导体材料,大尺寸硅片,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688146,中船特气,科创板,半导体材料,电子特气与前驱体,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688147,微导纳米,科创板,半导体设备,ALD/CVD薄膜沉积设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688170,德龙激光,科创板,半导体/激光设备,精密激光加工设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688200,华峰测控,科创板,半导体设备,模拟/功率芯片测试机,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688233,神工股份,科创板,半导体材料/零部件,大直径硅材料与硅零部件,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688234,天岳先进,科创板,半导体材料,碳化硅衬底,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688268,华特气体,科创板,半导体材料,电子特气,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688300,联瑞新材,科创板,先进封装/PCB材料,球形硅微粉及封装填料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688352,颀中科技,科创板,先进封装,显示及非显示芯片封装测试,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688359,三孚新科,科创板,PCB/半导体材料,电子电镀化学品与设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688361,中科飞测,科创板,半导体设备,检测与量测设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688362,甬矽电子,科创板,先进封装,集成电路封装测试,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688372,伟测科技,科创板,先进封装,晶圆及成品测试,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688383,新益昌,科创板,先进封装设备,固晶与封装设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688403,汇成股份,科创板,先进封装,显示驱动芯片封装测试,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688409,富创精密,科创板,半导体设备零部件,精密零部件与模组,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688419,耐科装备,科创板,先进封装设备,半导体封装设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688432,有研硅,科创板,半导体材料,大尺寸硅片,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688478,晶升股份,科创板,半导体设备,晶体生长设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688531,日联科技,科创板,半导体检测设备,X射线检测设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688535,华海诚科,科创板,先进封装材料,环氧塑封料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688545,兴福电子,科创板,半导体材料,湿电子化学品,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688548,广钢气体,科创板,半导体材料,电子大宗气体,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688549,中巨芯,科创板,半导体材料,电子化学品与电子特气,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688596,正帆科技,科创板,半导体设备/材料,高纯工艺系统与电子特气,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688630,芯碁微装,科创板,半导体/PCB设备,直写光刻与先进封装设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688652,京仪装备,科创板,半导体设备,温控、尾气处理与晶圆传片设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688661,和林微纳,科创板,半导体测试零部件,探针及精密结构件,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688693,锴威特,科创板,半导体器件,功率半导体与SiC器件,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688699,明微电子,科创板,半导体器件,显示驱动与电源管理芯片,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688720,艾森股份,科创板,半导体材料,电镀液与光刻胶,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688727,恒坤新材,科创板,半导体材料,光刻材料与前驱体,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688757,胜科纳米,科创板,半导体检测服务,失效分析与材料分析,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688783,西安奕材,科创板,半导体材料,大尺寸硅片,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688808,联讯仪器,科创板,半导体检测设备,高速通信与半导体测试仪器,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688020,方邦股份,科创板,PCB/先进封装材料,可剥铜箔与电磁屏蔽膜,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688093,世华科技,科创板,PCB/电子材料,功能性材料与精密制程材料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688102,斯瑞新材,科创板,PCB/半导体材料,高强高导铜合金材料,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688183,生益电子,科创板,PCB,AI服务器与通信PCB,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688312,燕麦科技,科创板,PCB设备,FPC自动化测试设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688323,瑞华泰,科创板,PCB上游材料,高性能PI薄膜,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688401,路维光电,科创板,PCB/半导体材料,掩膜版,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688519,南亚新材,科创板,PCB上游材料,高频高速覆铜板,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688571,杭华股份,科创板,PCB上游材料,电子油墨,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688603,天承科技,科创板,PCB上游材料,PCB专用电子化学品,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688629,华丰科技,科创板,PCB/连接器,高速背板连接器,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688655,迅捷兴,科创板,PCB,高多层与小批量PCB,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
+2026-08-07,688700,东威科技,科创板,PCB设备,电镀设备与复合铜箔设备,,,,,,,,,error,"RuntimeError(""ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"")"
